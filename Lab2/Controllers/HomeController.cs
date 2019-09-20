@@ -14,6 +14,10 @@ namespace Lab2.Controllers
         {
             return View();
         }
+        public IActionResult Categories()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
